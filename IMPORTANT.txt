@@ -1,0 +1,10 @@
+*** IMPORTANT ***
+-----------------
+Run the injector and apex legends
+
+Inject the kernel.dll into Apex Legends game process.
+
+Have fun and enjoy!
+-------------------
+*** IMPORTANT ***
+
